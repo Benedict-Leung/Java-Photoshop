@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Photoshop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Photoshop.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
