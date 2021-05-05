@@ -16,6 +16,7 @@ Mocks the basic features of photoshop
   - Gaussian Blur
   - Bulge
 - Able to draw/paint over an image
+- Change size of the stroke
 - Erase parts of an image
 - Able to combine filters and paint
 - Saves all changes to a file
