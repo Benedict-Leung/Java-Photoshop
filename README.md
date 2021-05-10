@@ -25,7 +25,7 @@ Mocks the basic features of photoshop
 
 ### JAR
 
-Go to directory `out -> artfacts -> Photoshop_jar`
+Go to directory `out -> artifacts -> Photoshop_jar`
 
 You can run via command-line
 ```bash
